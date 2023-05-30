@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    width: 100%;
+    background-color: rgb(40, 37, 37);
+}
+.nav-bar h1{
+    color: white;
+    margin: 0;
+    padding: 1rem;
+}

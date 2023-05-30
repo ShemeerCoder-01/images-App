@@ -1,3 +1,5 @@
+This is a Image Collection App, Created using free demo imagesApi from unsplash.com
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
